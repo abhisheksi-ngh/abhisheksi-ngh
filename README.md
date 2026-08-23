@@ -2,12 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:24105f,75:7a2bff,100:ff003c&height=230&section=header&text=ABHISHEK%20KUMAR%20SINGH&fontSize=46&fontColor=00f0ff&fontAlignY=36&desc=%3C%20SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20ONLINE%20%3E&descAlignY=57&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=55&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER;JAVA+%7C+GO+%7C+TYPESCRIPT+%7C+PYTHON;BACKEND+%7C+SYSTEMS+%7C+AUTOMATION+%7C+AI;BUILDING+SYSTEMS+THAT+ACTUALLY+SHIP;LEARNING.+BUILDING.+DEPLOYING.+REPEATING." alt="Typing SVG" />
+### `SOFTWARE ENGINEER  //  FULL-STACK DEVELOPER`
+### `JAVA · GO · TYPESCRIPT · PYTHON`
+### `BUILDING SYSTEMS THAT ACTUALLY SHIP`
 
 <br/>
 
 <a href="https://github.com/abhisheksi-ngh">
 <img src="https://img.shields.io/badge/GITHUB-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=github&logoColor=00f0ff"/>
+</a>
+<a href="https://www.linkedin.com/in/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/LINKEDIN-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:abhishek.singh.se2024@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
@@ -246,53 +251,7 @@ Not just:
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abhisheksi-ngh&theme=transparent&hide_border=true&background=0a0a1f&ring=ff003c&fire=7a2bff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=c9d1d9" />
-
-</div>
-
----
-
-<h2 align="center">◤ CONTRIBUTION MATRIX ◢</h2>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheksi-ngh&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksi-ngh&bg_color=0a0a1f&color=00f0ff&line=7a2bff&point=ff003c&area=true&hide_border=true" />
-
-</div>
-
----
-
-<h2 align="center">◤ TROPHY CASE ◢</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhisheksi-ngh&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
-
-</div>
-
----
-
-<h2 align="center">◤ CONTRIBUTION GRID // 3D ◢</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
-
-> ⚠ Requires the [`3d-contrib`](https://github.com/yoshi389111/3d-contrib) GitHub Action set up on your profile repo — it generates this SVG automatically on a schedule. Skip this block if you don't want to configure it.
+> ⚠ This is the shared public instance — it's the standard, most-used option, but can occasionally 503 under heavy traffic. If it ever shows a broken icon, refresh after a minute; it's not your markup.
 
 ---
 
@@ -402,6 +361,10 @@ abhishek@dev:~$ echo $STATUS
 
 <a href="mailto:abhishek.singh.se2024@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/abhisheksi-ngh">
