@@ -36,14 +36,16 @@
 ║                  ABHISHEK // SYSTEM                       ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  STATUS              ● ONLINE                              ║
-║  ROLE                SOFTWARE ENGINEER                     ║
-║  PRIMARY MODE        BACKEND + FULL-STACK                  ║
-║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS             ║
-║  EDUCATION           DTU · B.TECH · 2020 — 2024            ║
-║  LOCATION            DELHI, INDIA                          ║
+║  STATUS              ● ONLINE                             ║
+║  ROLE                SOFTWARE ENGINEER                    ║
+║  EMPLOYER            DOCEREE                               ║
+║  PRIMARY MODE        BACKEND + FULL-STACK                 ║
+║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS            ║
+║  EDUCATION           B.TECH · DTU · 2020 — 2024           ║
+║  CURRENTLY STUDYING  M.SC. AI & ML · IGNOU · 2026 —       ║
+║  LOCATION            DELHI, INDIA                         ║
 ║                                                            ║
-║  CODE                BUILD → TEST → DEPLOY → REPEAT        ║
+║  CODE                BUILD → TEST → DEPLOY → REPEAT       ║
 ║                                                            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -56,7 +58,7 @@
 
 I'm a Software Engineer who enjoys going beyond simply making things work.
 
-I like understanding **how systems work underneath**, building reliable backend services, automating repetitive workflows, designing clean APIs, and turning ideas into deployable products.
+I like understanding **how systems work underneath** — building reliable backend services, automating repetitive workflows, designing clean APIs, and turning ideas into deployable products.
 
 My strongest interests currently sit around:
 
@@ -110,7 +112,7 @@ I'm particularly interested in building systems that are **maintainable, observa
 |   ⚙️ **Backend**  | Java · Go · Node.js · REST APIs · Microservices |
 |  🖥️ **Frontend** | Angular · React · Next.js · TypeScript · Redux  |
 | 🗄️ **Databases** | PostgreSQL · MongoDB · Redis                    |
-|   🧪 **Testing**  | Playwright · TestNG · API Testing · Automation  |
+|   🧪 **Testing**  | Playwright · Java · TestNG · API Testing · Automation |
 |    ☁️ **Cloud**   | Azure · GCP · Cloud Services                    |
 |   🚀 **DevOps**   | Docker · Kubernetes · Jenkins · GitHub Actions  |
 |   📡 **Systems**  | Kafka · Distributed Services · Observability    |
@@ -146,12 +148,13 @@ PRIMARY OBJECTIVES
 
 `June 2025 — Present`
 
-Working on software systems in the AdTech domain, with focus across frontend engineering, backend services, automation and engineering workflows.
+Working on software systems in the AdTech domain, spanning frontend engineering, backend services, automation, and engineering workflows.
 
 * Building and maintaining production-facing application features
 * Working with modern frontend architecture and APIs
 * Developing backend services and integrations
-* Building automated UI/API validation
+* Building automated UI/API validation with Playwright + Java
+* Debugging server-side auction and coupon-lookup logs — geo-resolution mismatches, budget-filtering logic, bid discrepancies
 * Working with databases, CI/CD and cloud-oriented systems
 * Exploring AI-assisted engineering workflows
 
@@ -179,14 +182,16 @@ Working on software systems in the AdTech domain, with focus across frontend eng
 
 ### 🚀 Featured Projects
 
-| Project                        | Stack                         | Focus                       |
-| ------------------------------ | ------------------------------ | ---------------------------- |
-| **Portfolio**                  | React · TypeScript · Supabase | Personal developer platform |
-| **Business Insights 360**      | Power BI · Data               | Business analytics          |
-| **Uptime Tracker**             | Node.js · APIs                | Monitoring / infrastructure |
-| **Personalized Learning Path** | Web · AI                      | Learning systems            |
-| **Work Day Scheduler**         | JavaScript                    | Productivity                |
-| **CocktailThatUwant**          | React · APIs                  | Full-stack web              |
+| Project                        | Stack                                    | Focus                        |
+| ------------------------------ | ----------------------------------------- | ----------------------------- |
+| **Medical AI Assistant**       | Python · DenseNet-121 CNN · RAG · Multi-LLM | Full-stack medical AI app     |
+| **LLM Image Captioning**       | Angular 17 · Node.js/Express (monorepo)   | AI-powered image captioning   |
+| **Portfolio**                  | React · TypeScript · Supabase             | Personal developer platform   |
+| **Business Insights 360**      | Power BI · Data                           | Business analytics            |
+| **Uptime Tracker**             | Node.js · APIs                            | Monitoring / infrastructure   |
+| **Personalized Learning Path** | Web · AI                                  | Learning systems              |
+| **Work Day Scheduler**         | JavaScript                                | Productivity                  |
+| **CocktailThatUwant**          | React · APIs                              | Full-stack web                |
 
 </div>
 
@@ -221,7 +226,7 @@ Not just:
 <div align="center">
 
 | Achievement                    |           Record          |
-| :------------------------------ | :-------------------------: |
+| :----------------------------- | :-----------------------: |
 | 🧠 **LeetCode**                |       500+ problems       |
 | ⭐ **LeetCode Rating**          |           1900+           |
 | 🏆 **Competitive Programming** | Multiple contest rankings |
@@ -286,7 +291,7 @@ Not just:
 │                                                         │
 │  ◌ GitHub Foundations Certification                    │
 │  ◌ Cloud Certification                                 │
-│  ◌ Open Source Contribution                             │
+│  ◌ Open Source Contribution                            │
 │  ◌ 1,000+ GitHub Contributions                         │
 │                                                         │
 └───────────────────────────────────────────────────────┘
@@ -343,26 +348,12 @@ Not just:
 
 ---
 
-<h2 align="center">◤ GITHUB ACTIVITY ◢</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
-
----
-
 <h2 align="center">◤ CONNECT ◢</h2>
 
 <div align="center">
 
 <a href="mailto:abhishek.singh.se2024@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/abhisheksi-ngh">
