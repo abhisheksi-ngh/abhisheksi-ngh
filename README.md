@@ -274,6 +274,54 @@ Not just:
 
 ---
 
+<h2 align="center">◤ TROPHY CASE ◢</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhisheksi-ngh&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+---
+
+<h2 align="center">◤ CONTRIBUTION GRID // 3D ◢</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+> ⚠ Requires the [`3d-contrib`](https://github.com/yoshi389111/3d-contrib) GitHub Action set up on your profile repo — it generates this SVG automatically on a schedule. Skip this block if you don't want to configure it.
+
+---
+
+<h2 align="center">◤ TERMINAL LOG ◢</h2>
+
+<div align="center">
+
+```bash
+abhishek@dev:~$ whoami
+> software_engineer.exe running at Doceree since 2025-06
+
+abhishek@dev:~$ cat current_focus.txt
+> Auction systems · targeting logic · analytics pipelines
+> Playwright + Java automation across Highcharts, uploads, dashboards
+> M.Sc. AI & ML @ IGNOU — in progress
+
+abhishek@dev:~$ git log --oneline -3
+> fix: geo-resolution mismatch in auction finalization
+> feat: stable xpath patterns for choropleth + donut charts
+> chore: bug-tracking spreadsheet for structured QA logging
+
+abhishek@dev:~$ echo $STATUS
+> Building. Debugging. Shipping. Repeat.
+```
+
+</div>
+
+---
+
 <h2 align="center">◤ ACHIEVEMENT MATRIX ◢</h2>
 
 <div align="center">
