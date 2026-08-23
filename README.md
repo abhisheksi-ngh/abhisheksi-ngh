@@ -33,18 +33,18 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                  ABHISHEK // SYSTEM                     ║
+║                  ABHISHEK // SYSTEM                       ║
 ╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  STATUS              ● ONLINE                            ║
-║  ROLE                SOFTWARE ENGINEER                   ║
-║  PRIMARY MODE        BACKEND + FULL-STACK                ║
-║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS           ║
-║  EDUCATION           DTU · B.Tech · 2020 — 2024          ║
-║  LOCATION            DELHI, INDIA                        ║
-║                                                          ║
-║  CODE                BUILD → TEST → DEPLOY → REPEAT      ║
-║                                                          ║
+║                                                            ║
+║  STATUS              ● ONLINE                              ║
+║  ROLE                SOFTWARE ENGINEER                     ║
+║  PRIMARY MODE        BACKEND + FULL-STACK                  ║
+║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS             ║
+║  EDUCATION           DTU · B.TECH · 2020 — 2024            ║
+║  LOCATION            DELHI, INDIA                          ║
+║                                                            ║
+║  CODE                BUILD → TEST → DEPLOY → REPEAT        ║
+║                                                            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -180,7 +180,7 @@ Working on software systems in the AdTech domain, with focus across frontend eng
 ### 🚀 Featured Projects
 
 | Project                        | Stack                         | Focus                       |
-| ------------------------------ | ----------------------------- | --------------------------- |
+| ------------------------------ | ------------------------------ | ---------------------------- |
 | **Portfolio**                  | React · TypeScript · Supabase | Personal developer platform |
 | **Business Insights 360**      | Power BI · Data               | Business analytics          |
 | **Uptime Tracker**             | Node.js · APIs                | Monitoring / infrastructure |
@@ -221,7 +221,7 @@ Not just:
 <div align="center">
 
 | Achievement                    |           Record          |
-| :----------------------------- | :-----------------------: |
+| :------------------------------ | :-------------------------: |
 | 🧠 **LeetCode**                |       500+ problems       |
 | ⭐ **LeetCode Rating**          |           1900+           |
 | 🏆 **Competitive Programming** | Multiple contest rankings |
@@ -275,20 +275,20 @@ Not just:
 
 ```text
 ┌───────────────────────────────────────────────────────┐
-│                  ACHIEVEMENT MATRIX                   │
+│                  ACHIEVEMENT MATRIX                    │
 ├───────────────────────────────────────────────────────┤
-│                                                       │
-│  ✓ GitHub Education                                  │
-│  ✓ GitHub Copilot Student                            │
-│  ✓ 500+ DSA Problems                                 │
-│  ✓ Competitive Programming Experience                │
-│  ✓ Production Software Engineering                   │
-│                                                       │
-│  ◌ GitHub Foundations Certification                 │
-│  ◌ Cloud Certification                               │
-│  ◌ Open Source Contribution                           │
-│  ◌ 1,000+ GitHub Contributions                       │
-│                                                       │
+│                                                         │
+│  ✓ GitHub Education                                    │
+│  ✓ GitHub Copilot Student                              │
+│  ✓ 500+ DSA Problems                                   │
+│  ✓ Competitive Programming Experience                  │
+│  ✓ Production Software Engineering                     │
+│                                                         │
+│  ◌ GitHub Foundations Certification                    │
+│  ◌ Cloud Certification                                 │
+│  ◌ Open Source Contribution                             │
+│  ◌ 1,000+ GitHub Contributions                         │
+│                                                         │
 └───────────────────────────────────────────────────────┘
 ```
 
