@@ -2,19 +2,22 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:24105f,75:7a2bff,100:ff003c&height=230&section=header&text=ABHISHEK%20KUMAR%20SINGH&fontSize=46&fontColor=00f0ff&fontAlignY=36&desc=%3C%20SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20ONLINE%20%3E&descAlignY=57&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=55&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER;JAVA+%7C+GO+%7C+TYPESCRIPT+%7C+PYTHON;BACKEND+%7C+SYSTEMS+%7C+AUTOMATION+%7C+AI;BUILDING+SYSTEMS+THAT+ACTUALLY+SHIP;LEARNING.+BUILDING.+DEPLOYING.+REPEATING." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=55&lines=SOFTWARE+ENGINEER+%7C+BACKEND+%26+FULL-STACK;JAVA+%7C+GO+%7C+NODE.JS+%7C+TYPESCRIPT;ANGULAR+%7C+REACT+%7C+SPRING+BOOT;BACKEND+%7C+SYSTEMS+%7C+CLOUD+%7C+DEVOPS;BUILDING+SYSTEMS+THAT+ACTUALLY+SHIP" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/abhisheksi-ngh">
 <img src="https://img.shields.io/badge/GITHUB-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=github&logoColor=00f0ff"/>
 </a>
+
 <a href="mailto:abhishek.singh.se2024@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
 </a>
+
 <a href="https://leetcode.com/abhisheksi-ngh">
 <img src="https://img.shields.io/badge/LEETCODE-1900%2B-0a0a1f?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
+
 <a href="https://www.codechef.com/users/abhisheksi-ngh">
 <img src="https://img.shields.io/badge/CODECHEF-0a0a1f?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
@@ -33,20 +36,19 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                  ABHISHEK // SYSTEM                       ║
+║                  ABHISHEK // SYSTEM                     ║
 ╠══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  STATUS              ● ONLINE                             ║
-║  ROLE                SOFTWARE ENGINEER                    ║
-║  EMPLOYER            DOCEREE                               ║
-║  PRIMARY MODE        BACKEND + FULL-STACK                 ║
-║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS            ║
-║  EDUCATION           B.TECH · DTU · 2020 — 2024           ║
-║  CURRENTLY STUDYING  M.SC. AI & ML · IGNOU · 2026 —       ║
-║  LOCATION            DELHI, INDIA                         ║
-║                                                            ║
-║  CODE                BUILD → TEST → DEPLOY → REPEAT       ║
-║                                                            ║
+║                                                          ║
+║  STATUS              ● ONLINE                            ║
+║  ROLE                SOFTWARE ENGINEER                   ║
+║  PRIMARY MODE        BACKEND + FULL-STACK                ║
+║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS           ║
+║  EDUCATION           B.TECH · DTU · 2020 — 2024          ║
+║  CURRENTLY STUDYING  M.SC. AI & ML · IGNOU               ║
+║  LOCATION            DELHI, INDIA                        ║
+║                                                          ║
+║  CODE                BUILD → TEST → DEPLOY → IMPROVE     ║
+║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -56,22 +58,28 @@
 
 <h2 align="center">◤ ABOUT THE ENGINEER ◢</h2>
 
-I'm a Software Engineer who enjoys going beyond simply making things work.
+I'm a Software Engineer focused on building **backend and full-stack applications**.
 
-I like understanding **how systems work underneath** — building reliable backend services, automating repetitive workflows, designing clean APIs, and turning ideas into deployable products.
+I enjoy designing APIs, building application architecture, working with databases, developing user-facing applications, and turning product requirements into reliable software.
 
-My strongest interests currently sit around:
+My primary development stack includes **Java, Go, Node.js, TypeScript, Angular, React, and Spring Boot**.
+
+I'm particularly interested in:
 
 * Backend engineering
-* Java and Go
 * Full-stack development
+* API and service design
+* Java / Spring Boot
+* Go
+* Node.js
+* Databases and data-intensive applications
 * Distributed systems
-* Automation and testing
 * Cloud and DevOps
-* AI-assisted engineering
-* Data-intensive applications
+* AI-powered software
 
-I'm particularly interested in building systems that are **maintainable, observable, testable and scalable**.
+I also have experience with automated testing, CI/CD, Docker, and developer tooling. These are supporting engineering skills rather than my primary career focus.
+
+Currently, I'm working toward becoming a stronger **backend and systems engineer**, with particular focus on Java, Go, system design, distributed systems, cloud architecture, and scalable software.
 
 ---
 
@@ -81,21 +89,25 @@ I'm particularly interested in building systems that are **maintainable, observa
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,go,ts,js,py,cpp,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,go,ts,js,py,cpp&theme=dark" />
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,html,css,tailwind&theme=dark" />
 
-### Backend & Data
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,redis,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
 
-### DevOps & Cloud
+### Databases & Messaging
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,kafka&theme=dark" />
+
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,terraform,gcp,azure&theme=dark" />
 
-### Testing & Engineering
+### Engineering & Testing
 
 <img src="https://skillicons.dev/icons?i=playwright,postman,swagger,maven,gradle&theme=dark" />
 
@@ -107,16 +119,16 @@ I'm particularly interested in building systems that are **maintainable, observa
 
 <div align="center">
 
-|       DOMAIN      | CURRENT SYSTEMS                                 |
-| :---------------: | :---------------------------------------------- |
-|   ⚙️ **Backend**  | Java · Go · Node.js · REST APIs · Microservices |
-|  🖥️ **Frontend** | Angular · React · Next.js · TypeScript · Redux  |
-| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis                    |
-|   🧪 **Testing**  | Playwright · Java · TestNG · API Testing · Automation |
-|    ☁️ **Cloud**   | Azure · GCP · Cloud Services                    |
-|   🚀 **DevOps**   | Docker · Kubernetes · Jenkins · GitHub Actions  |
-|   📡 **Systems**  | Kafka · Distributed Services · Observability    |
-|     🤖 **AI**     | RAG · LangChain · MCP · Agentic Workflows       |
+|      DOMAIN      | TECHNOLOGIES                                   |
+| :--------------: | :--------------------------------------------- |
+|  ⚙️ **Backend**  | Java · Spring Boot · Go · Node.js · REST APIs  |
+| 🖥️ **Frontend** | Angular · React · Next.js · TypeScript         |
+|   🗄️ **Data**   | PostgreSQL · MongoDB · Redis                   |
+|  📡 **Systems**  | Kafka · Microservices · Distributed Systems    |
+|   ☁️ **Cloud**   | Azure · GCP · Cloud Services                   |
+|   🚀 **DevOps**  | Docker · Kubernetes · Jenkins · GitHub Actions |
+|  🧪 **Testing**  | Playwright · TestNG · API Testing              |
+|     🤖 **AI**    | RAG · LangChain · MCP · Agentic Workflows      |
 
 </div>
 
@@ -130,12 +142,13 @@ MISSION: Become a stronger backend / systems engineer
 PRIMARY OBJECTIVES
 
 [████████████████░░░░] Backend Engineering
-[███████████████░░░░░] Java / Spring
+[███████████████░░░░░] Java / Spring Boot
 [██████████████░░░░░░] Go
-[█████████████░░░░░░░] Distributed Systems
-[████████████░░░░░░░░] Cloud & DevOps
+[█████████████░░░░░░░] Node.js
+[████████████░░░░░░░░] Distributed Systems
 [███████████░░░░░░░░░] System Design
-[██████████░░░░░░░░░░] AI Engineering
+[██████████░░░░░░░░░░] Cloud & DevOps
+[█████████░░░░░░░░░░░] AI Engineering
 ```
 
 > **Build less toy code. Build more real systems.**
@@ -148,31 +161,33 @@ PRIMARY OBJECTIVES
 
 `June 2025 — Present`
 
-Working on software systems in the AdTech domain, spanning frontend engineering, backend services, automation, and engineering workflows.
+Working on software systems in the AdTech domain across frontend development, backend services, application workflows, and engineering infrastructure.
 
-* Building and maintaining production-facing application features
-* Working with modern frontend architecture and APIs
-* Developing backend services and integrations
-* Building automated UI/API validation with Playwright + Java
-* Debugging server-side auction and coupon-lookup logs — geo-resolution mismatches, budget-filtering logic, bid discrepancies
-* Working with databases, CI/CD and cloud-oriented systems
-* Exploring AI-assisted engineering workflows
+* Develop and maintain production-facing software features
+* Build frontend applications and reusable UI architecture
+* Develop and integrate backend services and APIs
+* Work with databases and application data workflows
+* Investigate production issues across application and backend systems
+* Build automated UI/API validation using Playwright and Java
+* Work with Git, CI/CD pipelines, and cloud-oriented environments
+* Explore AI-assisted engineering workflows
 
 ### 🔧 Frontend Developer Intern — Coding Ninjas
 
 `February 2025 — May 2025`
 
 * Built React-based dashboards and product interfaces
-* Worked on frontend architecture and reusable components
-* Improved application performance and user experience
+* Developed reusable frontend components
+* Integrated application features with backend APIs
+* Worked on performance and user experience improvements
 
 ### 🔩 Frontend Developer Intern — CRIS
 
 `January 2024 — February 2024`
 
-* Worked on administrative dashboards
-* Integrated frontend applications with backend APIs
-* Gained experience working with production-oriented software systems
+* Developed frontend components for administrative applications
+* Integrated UI workflows with backend APIs
+* Worked within a production-oriented software development environment
 
 ---
 
@@ -180,57 +195,53 @@ Working on software systems in the AdTech domain, spanning frontend engineering,
 
 <div align="center">
 
-### 🚀 Featured Projects
-
-| Project                        | Stack                                    | Focus                        |
-| ------------------------------ | ----------------------------------------- | ----------------------------- |
-| **Medical AI Assistant**       | Python · DenseNet-121 CNN · RAG · Multi-LLM | Full-stack medical AI app     |
-| **LLM Image Captioning**       | Angular 17 · Node.js/Express (monorepo)   | AI-powered image captioning   |
-| **Portfolio**                  | React · TypeScript · Supabase             | Personal developer platform   |
-| **Business Insights 360**      | Power BI · Data                           | Business analytics            |
-| **Uptime Tracker**             | Node.js · APIs                            | Monitoring / infrastructure   |
-| **Personalized Learning Path** | Web · AI                                  | Learning systems              |
-| **Work Day Scheduler**         | JavaScript                                | Productivity                  |
-| **CocktailThatUwant**          | React · APIs                              | Full-stack web                |
+| PROJECT                        | TECHNOLOGY                     | FOCUS                             |
+| :----------------------------- | :----------------------------- | :-------------------------------- |
+| **Medical AI Assistant**       | Python · CNN · RAG · Multi-LLM | AI-powered application            |
+| **LLM Image Captioning**       | Angular · Node.js · Express    | AI-powered full-stack application |
+| **Portfolio**                  | React · TypeScript · Supabase  | Developer platform                |
+| **Business Insights 360**      | Power BI · Data                | Business analytics                |
+| **Uptime Tracker**             | Node.js · APIs                 | Monitoring system                 |
+| **Personalized Learning Path** | Web · AI                       | Learning platform                 |
+| **Work Day Scheduler**         | JavaScript                     | Productivity application          |
+| **CocktailThatUwant**          | React · APIs                   | Full-stack web application        |
 
 </div>
 
-### 🔥 What I want my projects to demonstrate
+### What I want my projects to demonstrate
 
 ```text
 Architecture
-    ↓
+      ↓
 Clean APIs
-    ↓
+      ↓
 Reliable Data Layer
-    ↓
-Automated Testing
-    ↓
+      ↓
+Testing
+      ↓
 Containerization
-    ↓
+      ↓
 CI/CD
-    ↓
+      ↓
 Cloud Deployment
-    ↓
+      ↓
 Monitoring
 ```
 
-Not just:
-
-> "It works on my machine."
+> **Not just "it works on my machine."**
 
 ---
 
-<h2 align="center">◤ BATTLE HONORS // COMPETITIVE PROGRAMMING ◢</h2>
+<h2 align="center">◤ BATTLE HONORS // DSA ◢</h2>
 
 <div align="center">
 
-| Achievement                    |           Record          |
-| :----------------------------- | :-----------------------: |
-| 🧠 **LeetCode**                |       500+ problems       |
-| ⭐ **LeetCode Rating**          |           1900+           |
-| 🏆 **Competitive Programming** | Multiple contest rankings |
-| 🧩 **DSA**                     |    500+ problems solved   |
+| ACHIEVEMENT                    |        RECORD        |
+| :----------------------------- | :------------------: |
+| 🧠 **LeetCode**                |     500+ problems    |
+| ⭐ **LeetCode Rating**          |         1900+        |
+| 🏆 **Competitive Programming** |  Contest experience  |
+| 🧩 **DSA**                     | 500+ problems solved |
 
 </div>
 
@@ -288,35 +299,7 @@ Not just:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
-
-> ⚠ Requires the [`3d-contrib`](https://github.com/yoshi389111/3d-contrib) GitHub Action set up on your profile repo — it generates this SVG automatically on a schedule. Skip this block if you don't want to configure it.
-
----
-
-<h2 align="center">◤ TERMINAL LOG ◢</h2>
-
-<div align="center">
-
-```bash
-abhishek@dev:~$ whoami
-> software_engineer.exe running at Doceree since 2025-06
-
-abhishek@dev:~$ cat current_focus.txt
-> Auction systems · targeting logic · analytics pipelines
-> Playwright + Java automation across Highcharts, uploads, dashboards
-> M.Sc. AI & ML @ IGNOU — in progress
-
-abhishek@dev:~$ git log --oneline -3
-> fix: geo-resolution mismatch in auction finalization
-> feat: stable xpath patterns for choropleth + donut charts
-> chore: bug-tracking spreadsheet for structured QA logging
-
-abhishek@dev:~$ echo $STATUS
-> Building. Debugging. Shipping. Repeat.
-```
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
@@ -328,20 +311,20 @@ abhishek@dev:~$ echo $STATUS
 
 ```text
 ┌───────────────────────────────────────────────────────┐
-│                  ACHIEVEMENT MATRIX                    │
+│                  ACHIEVEMENT MATRIX                   │
 ├───────────────────────────────────────────────────────┤
-│                                                         │
-│  ✓ GitHub Education                                    │
-│  ✓ GitHub Copilot Student                              │
-│  ✓ 500+ DSA Problems                                   │
-│  ✓ Competitive Programming Experience                  │
-│  ✓ Production Software Engineering                     │
-│                                                         │
-│  ◌ GitHub Foundations Certification                    │
-│  ◌ Cloud Certification                                 │
-│  ◌ Open Source Contribution                            │
-│  ◌ 1,000+ GitHub Contributions                         │
-│                                                         │
+│                                                       │
+│  ✓ GitHub Education                                  │
+│  ✓ GitHub Copilot Student                            │
+│  ✓ 500+ DSA Problems                                 │
+│  ✓ Competitive Programming Experience                │
+│  ✓ Production Software Engineering                   │
+│                                                       │
+│  ◌ GitHub Foundations Certification                 │
+│  ◌ Cloud Certification                               │
+│  ◌ Open Source Contribution                           │
+│  ◌ 1,000+ GitHub Contributions                       │
+│                                                       │
 └───────────────────────────────────────────────────────┘
 ```
 
@@ -354,12 +337,12 @@ abhishek@dev:~$ echo $STATUS
 ```text
 01 → Advanced Java / Spring Boot
 02 → Go Backend Engineering
-03 → System Design
-04 → Distributed Systems
-05 → Kafka / Event-Driven Architecture
-06 → Docker / Kubernetes
-07 → Cloud Architecture
-08 → Observability
+03 → Node.js Backend Engineering
+04 → System Design
+05 → Distributed Systems
+06 → Kafka / Event-Driven Architecture
+07 → Docker / Kubernetes
+08 → Cloud Architecture
 09 → AI Engineering
 10 → Open Source
 ```
@@ -373,13 +356,13 @@ abhishek@dev:~$ echo $STATUS
 ```text
                  THINK
                    ↓
-                DESIGN
+                 DESIGN
                    ↓
                  BUILD
                    ↓
                  TEST
                    ↓
-               OBSERVE
+                OBSERVE
                    ↓
                 DEPLOY
                    ↓
@@ -391,6 +374,16 @@ abhishek@dev:~$ echo $STATUS
 **Good software isn't only code that works.**
 
 **Good software is code that can survive change.**
+
+</div>
+
+---
+
+<h2 align="center">◤ CONTRIBUTION ACTIVITY ◢</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
