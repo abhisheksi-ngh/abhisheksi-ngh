@@ -1,143 +1,388 @@
-## Hi there 👋
-
-<!--
-**abhisheksi-ngh/abhisheksi-ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1f,50:7a2bff,100:ff003c&height=220&section=header&text=ABHISHEK%20KUMAR%20SINGH&fontSize=45&fontColor=00f0ff&fontAlignY=38&desc=%3C%20SOFTWARE%20DEVELOPER%20//%20FULL-STACK%20ENGINE%20ONLINE%20%3E&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:24105f,75:7a2bff,100:ff003c&height=230&section=header&text=ABHISHEK%20KUMAR%20SINGH&fontSize=46&fontColor=00f0ff&fontAlignY=36&desc=%3C%20SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20ONLINE%20%3E&descAlignY=57&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=SYSTEM+ONLINE+...+CORE+ACTIVE;REACT.JS+%7C+NODE.JS+%7C+PYTHON+%7C+TYPESCRIPT;AGENTIC+AI+%2F+RAG+%2F+LANGCHAIN+MODULES+LOADED;500%2C000%2B+DAILY+ACTIVE+UNITS+SERVED" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=850&height=55&lines=SOFTWARE+ENGINEER+%7C+FULL-STACK+DEVELOPER;JAVA+%7C+GO+%7C+TYPESCRIPT+%7C+PYTHON;BACKEND+%7C+SYSTEMS+%7C+AUTOMATION+%7C+AI;BUILDING+SYSTEMS+THAT+ACTUALLY+SHIP;LEARNING.+BUILDING.+DEPLOYING.+REPEATING." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/GITHUB-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=github&logoColor=00f0ff"/>
+</a>
+<a href="mailto:abhishek.singh.se2024@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
+</a>
+<a href="https://leetcode.com/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/LEETCODE-1900%2B-0a0a1f?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+<a href="https://www.codechef.com/users/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/CODECHEF-0a0a1f?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhisheksi-ngh&label=PROFILE%20SCANS&color=7a2bff&style=for-the-badge" />
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/soundwave.svg" width="100%" alt="soundwave" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SCANS%20LOGGED&color=7a2bff&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0a0a1f?style=for-the-badge&logo=linkedin&logoColor=00f0ff" /></a>
-  <a href="mailto:abhishek.singh.se2024@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ff003c" /></a>
-  <a href="https://leetcode.com/abhisheksi-ngh"><img src="https://img.shields.io/badge/LEETCODE-0a0a1f?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://www.codechef.com/users/abhisheksi-ngh"><img src="https://img.shields.io/badge/CODECHEF-0a0a1f?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
-</p>
+<h2 align="center">◤ SYSTEM STATUS ◢</h2>
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  ABHISHEK // SYSTEM                     ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  STATUS              ● ONLINE                            ║
+║  ROLE                SOFTWARE ENGINEER                   ║
+║  PRIMARY MODE        BACKEND + FULL-STACK                ║
+║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS           ║
+║  EDUCATION           DTU · B.Tech · 2020 — 2024          ║
+║  LOCATION            DELHI, INDIA                        ║
+║                                                          ║
+║  CODE                BUILD → TEST → DEPLOY → REPEAT      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-<h3 align="center">◤ CORE DIRECTIVE ◢</h3>
+<h2 align="center">◤ ABOUT THE ENGINEER ◢</h2>
 
-```yaml
-unit_designation:   Abhishek Kumar Singh
-class:              Full-Stack Engineer
-faction:            Doceree Campaigns Division
-origin:              DTU, Delhi (B.Tech Engineering, 2020-2024)
-primary_functions:
-  - frontend_architecture: [React.js, Next.js, TypeScript, Redux]
-  - backend_systems:       [Node.js, Python, Go, Kafka, Redis]
-  - ai_subroutines:        [RAG, LangChain, MCP, Agentic Workflows]
-combat_record:       700+ problems neutralized | LeetCode rating 1713
-current_status:      ONLINE — accepting new missions
+I'm a Software Engineer who enjoys going beyond simply making things work.
+
+I like understanding **how systems work underneath**, building reliable backend services, automating repetitive workflows, designing clean APIs, and turning ideas into deployable products.
+
+My strongest interests currently sit around:
+
+* Backend engineering
+* Java and Go
+* Full-stack development
+* Distributed systems
+* Automation and testing
+* Cloud and DevOps
+* AI-assisted engineering
+* Data-intensive applications
+
+I'm particularly interested in building systems that are **maintainable, observable, testable and scalable**.
+
+---
+
+<h2 align="center">◤ POWER SYSTEMS // TECH STACK ◢</h2>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,go,ts,js,py,cpp,sql&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,html,css,tailwind&theme=dark" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,redis,kafka&theme=dark" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,terraform,gcp,azure&theme=dark" />
+
+### Testing & Engineering
+
+<img src="https://skillicons.dev/icons?i=playwright,postman,swagger,maven,gradle&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">◤ ENGINEERING MAP ◢</h2>
+
+<div align="center">
+
+|       DOMAIN      | CURRENT SYSTEMS                                 |
+| :---------------: | :---------------------------------------------- |
+|   ⚙️ **Backend**  | Java · Go · Node.js · REST APIs · Microservices |
+|  🖥️ **Frontend** | Angular · React · Next.js · TypeScript · Redux  |
+| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis                    |
+|   🧪 **Testing**  | Playwright · TestNG · API Testing · Automation  |
+|    ☁️ **Cloud**   | Azure · GCP · Cloud Services                    |
+|   🚀 **DevOps**   | Docker · Kubernetes · Jenkins · GitHub Actions  |
+|   📡 **Systems**  | Kafka · Distributed Services · Observability    |
+|     🤖 **AI**     | RAG · LangChain · MCP · Agentic Workflows       |
+
+</div>
+
+---
+
+<h2 align="center">◤ CURRENT MISSION ◢</h2>
+
+```text
+MISSION: Become a stronger backend / systems engineer
+
+PRIMARY OBJECTIVES
+
+[████████████████░░░░] Backend Engineering
+[███████████████░░░░░] Java / Spring
+[██████████████░░░░░░] Go
+[█████████████░░░░░░░] Distributed Systems
+[████████████░░░░░░░░] Cloud & DevOps
+[███████████░░░░░░░░░] System Design
+[██████████░░░░░░░░░░] AI Engineering
+```
+
+> **Build less toy code. Build more real systems.**
+
+---
+
+<h2 align="center">◤ EXPERIENCE LOG ◢</h2>
+
+### ⚡ Software Engineer — Doceree
+
+`June 2025 — Present`
+
+Working on software systems in the AdTech domain, with focus across frontend engineering, backend services, automation and engineering workflows.
+
+* Building and maintaining production-facing application features
+* Working with modern frontend architecture and APIs
+* Developing backend services and integrations
+* Building automated UI/API validation
+* Working with databases, CI/CD and cloud-oriented systems
+* Exploring AI-assisted engineering workflows
+
+### 🔧 Frontend Developer Intern — Coding Ninjas
+
+`February 2025 — May 2025`
+
+* Built React-based dashboards and product interfaces
+* Worked on frontend architecture and reusable components
+* Improved application performance and user experience
+
+### 🔩 Frontend Developer Intern — CRIS
+
+`January 2024 — February 2024`
+
+* Worked on administrative dashboards
+* Integrated frontend applications with backend APIs
+* Gained experience working with production-oriented software systems
+
+---
+
+<h2 align="center">◤ PROJECT ARCHIVE ◢</h2>
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+| Project                        | Stack                         | Focus                       |
+| ------------------------------ | ----------------------------- | --------------------------- |
+| **Portfolio**                  | React · TypeScript · Supabase | Personal developer platform |
+| **Business Insights 360**      | Power BI · Data               | Business analytics          |
+| **Uptime Tracker**             | Node.js · APIs                | Monitoring / infrastructure |
+| **Personalized Learning Path** | Web · AI                      | Learning systems            |
+| **Work Day Scheduler**         | JavaScript                    | Productivity                |
+| **CocktailThatUwant**          | React · APIs                  | Full-stack web              |
+
+</div>
+
+### 🔥 What I want my projects to demonstrate
+
+```text
+Architecture
+    ↓
+Clean APIs
+    ↓
+Reliable Data Layer
+    ↓
+Automated Testing
+    ↓
+Containerization
+    ↓
+CI/CD
+    ↓
+Cloud Deployment
+    ↓
+Monitoring
+```
+
+Not just:
+
+> "It works on my machine."
+
+---
+
+<h2 align="center">◤ BATTLE HONORS // COMPETITIVE PROGRAMMING ◢</h2>
+
+<div align="center">
+
+| Achievement                    |           Record          |
+| :----------------------------- | :-----------------------: |
+| 🧠 **LeetCode**                |       500+ problems       |
+| ⭐ **LeetCode Rating**          |           1900+           |
+| 🏆 **Competitive Programming** | Multiple contest rankings |
+| 🧩 **DSA**                     |    500+ problems solved   |
+
+</div>
+
+---
+
+<h2 align="center">◤ GITHUB TELEMETRY ◢</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhisheksi-ngh&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&icon_color=ff003c&text_color=c9d1d9&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksi-ngh&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksi-ngh&theme=transparent&hide_border=true&background=0a0a1f&ring=ff003c&fire=7a2bff&currStreakLabel=00f0ff&sideLabels=00f0ff&dates=c9d1d9" />
+
+</div>
+
+---
+
+<h2 align="center">◤ CONTRIBUTION MATRIX ◢</h2>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheksi-ngh&theme=github_dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksi-ngh&bg_color=0a0a1f&color=00f0ff&line=7a2bff&point=ff003c&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<h2 align="center">◤ ACHIEVEMENT MATRIX ◢</h2>
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                  ACHIEVEMENT MATRIX                   │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│  ✓ GitHub Education                                  │
+│  ✓ GitHub Copilot Student                            │
+│  ✓ 500+ DSA Problems                                 │
+│  ✓ Competitive Programming Experience                │
+│  ✓ Production Software Engineering                   │
+│                                                       │
+│  ◌ GitHub Foundations Certification                 │
+│  ◌ Cloud Certification                               │
+│  ◌ Open Source Contribution                           │
+│  ◌ 1,000+ GitHub Contributions                       │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<h2 align="center">◤ LEARNING QUEUE ◢</h2>
+
+```text
+01 → Advanced Java / Spring Boot
+02 → Go Backend Engineering
+03 → System Design
+04 → Distributed Systems
+05 → Kafka / Event-Driven Architecture
+06 → Docker / Kubernetes
+07 → Cloud Architecture
+08 → Observability
+09 → AI Engineering
+10 → Open Source
 ```
 
 ---
 
-<h3 align="center">◤ POWER SYSTEMS // TECH STACK ◢</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,py,react,nextjs,redux,html,css,nodejs,go,mongodb,redis,docker,git,swagger&theme=dark&perline=8" />
-</p>
+<h2 align="center">◤ DEVELOPMENT PHILOSOPHY ◢</h2>
 
 <div align="center">
 
-| Core Systems | Modules |
-|---|---|
-| ⚙️ **Frontend** | Angular · React.js · Next.js · Redux · HTML/CSS · SSR/CSR |
-| 🔩 **Backend** | Node.js · Go · REST APIs · Microservices · Redis · Kafka · MongoDB |
-| 🧠 **AI Subsystems** | RAG · LangChain · MCP · Agentic AI |
-| 🛠️ **DevOps** | Git · Docker · CI/CD · Swagger/OpenAPI |
-| 💾 **Languages** | Java · TypeScript · JavaScript · Python · SQL |
+```text
+                 THINK
+                   ↓
+                DESIGN
+                   ↓
+                 BUILD
+                   ↓
+                 TEST
+                   ↓
+               OBSERVE
+                   ↓
+                DEPLOY
+                   ↓
+                IMPROVE
+                   ↓
+                 REPEAT
+```
+
+**Good software isn't only code that works.**
+
+**Good software is code that can survive change.**
 
 </div>
 
 ---
 
-<h3 align="center">◤ MISSION LOG // EXPERIENCE ◢</h3>
-
-**⚡ Software Developer — Doceree, Noida** `June 2025 – PRESENT`
-> Deployed to the Campaigns Division. Commanding frontend architecture for systems serving 500,000+ daily active units.
-- Led frontend ownership of marketing reports (500K+ DAU) and external feeds (350K+ DAU)
-- Engineered backend services for forms/popup-forms/drag-drop editors — API latency down 30%
-- Deployed AI-powered agentic workflows (MCP, RAG, LangChain) — feature velocity up 50%
-- Hardened fault-tolerant microservices & CI/CD pipelines — throughput up 25%
-
-**🔧 Frontend Developer Intern — Coding Ninjas, Delhi** `Feb 2025 – May 2025`
-- Product owner of core UI management systems
-- Built React dashboards for a 150,000+ DAU attendance platform
-- Load times reduced by 20%
-
-**🔩 Frontend Developer Intern — CRIS Onsite** `Jan 2024 – Feb 2024`
-- Built admin dashboard interfacing with multi-node Node.js API network
-
----
-
-<h3 align="center">◤ BATTLE HONORS // ACHIEVEMENTS ◢</h3>
+<h2 align="center">◤ GITHUB ACTIVITY ◢</h2>
 
 <div align="center">
 
-| Rank | Operation |
-|---|---|
-| 🥈 850 | Hacker Cup, Facebook — 2024 |
-| 🥈 478 | TopCoder Open Round 1 — 2023 |
-| 🥈 487 | LeetCode September Challenge — 2024 |
-| 🥈 129 | LeetCode Round 647 — 2023 |
-| 🥈 562 | LeetCode July Cook-Off — 2023 |
-| 🏆 2nd Runner-Up | Hackfest Hackathon |
+<img src="https://raw.githubusercontent.com/abhisheksi-ngh/abhisheksi-ngh/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
 ---
 
-<h3 align="center">◤ LIVE TELEMETRY // GITHUB STATS ◢</h3>
+<h2 align="center">◤ CONNECT ◢</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&icon_color=ff003c&text_color=c9d1d9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&text_color=c9d1d9" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nightowl&hide_border=true&background=0a0a1f&ring=ff003c&fire=7a2bff&currStreakLabel=00f0ff" />
-</p>
+<a href="mailto:abhishek.singh.se2024@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h3 align="center">◤ ACTIVITY GRID // CONTRIBUTION MATRIX ◢</h3>
+<a href="https://leetcode.com/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<a href="https://github.com/abhisheksi-ngh">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">◤ OPEN CHANNEL // CONNECT ◢</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:abhishek.singh.se2024@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/abhisheksi-ngh"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
+### `SYSTEM STATUS: ONLINE`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:7a2bff,100:0a0a1f&height=100&section=footer" />
+**Building. Learning. Shipping.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:7a2bff,100:050510&height=120&section=footer" />
+
+</div>
