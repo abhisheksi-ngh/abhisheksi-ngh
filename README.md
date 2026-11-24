@@ -1,390 +1,131 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:24105f,75:7a2bff,100:ff003c&height=230&section=header&text=ABHISHEK%20KUMAR%20SINGH&fontSize=46&fontColor=00f0ff&fontAlignY=36&desc=%3C%20SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20ONLINE%20%3E&descAlignY=57&descSize=18&animation=fadeIn" />
-
-### `SOFTWARE ENGINEER  //  FULL-STACK DEVELOPER`
-### `JAVA · GO · TYPESCRIPT · PYTHON`
-### `BUILDING SYSTEMS THAT ACTUALLY SHIP`
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4f46e5,50:a855f7,100:06b6d4&text=Abhishek%20Kumar%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Frontend%2C%20React%2C%20Angular%20%26%20Agentic%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Abhishek Kumar Singh — Full-Stack Engineer" />
 
 <a href="https://github.com/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/GITHUB-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=github&logoColor=00f0ff"/>
-</a>
-<a href="https://www.linkedin.com/in/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/LINKEDIN-abhisheksi--ngh-0a0a1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:abhishek.singh.se2024@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0a0a1f?style=for-the-badge&logo=gmail&logoColor=ff003c"/>
-</a>
-<a href="https://leetcode.com/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/LEETCODE-1900%2B-0a0a1f?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-<a href="https://www.codechef.com/users/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/CODECHEF-0a0a1f?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=Building+high-traffic+React+%26+Angular+products;Agentic+AI+with+LangChain%2C+RAG+%26+MCP;CNNs+in+the+browser+with+PyTorch+%E2%86%92+ONNX;Open+to+full-stack%2C+frontend+%26+AI+roles" alt="Typing intro" />
 </a>
 
-<br/><br/>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=abhisheksi-ngh&label=PROFILE%20SCANS&color=7a2bff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Noida_/_Delhi,_India-0b0f1f?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/💼_Open_to_work-0b0f1f?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/🌐_Remote_friendly-0b0f1f?style=for-the-badge" alt="Remote friendly" />
+<img src="https://komarev.com/ghpvc/?username=abhisheksi-ngh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,50:e879f9,100:22d3ee" width="100%" alt="" />
 
-<h2 align="center">◤ SYSTEM STATUS ◢</h2>
+## 👋 About me
+
+> I'm a **full-stack engineer** who enjoys turning complex ideas into fast, polished products.
+> I work across **React, Angular, TypeScript, Node.js and Python**, and I build **agentic AI** features with **LangChain, RAG and MCP** — from retrieval pipelines to CNN models that run right in the browser.
+
+<table>
+<tr>
+<td align="center" width="25%">⚛️<br /><b>Frontend</b><br /><sub>React · Angular · TypeScript</sub></td>
+<td align="center" width="25%">🧩<br /><b>Backend</b><br /><sub>Node.js · Python · FastAPI</sub></td>
+<td align="center" width="25%">🤖<br /><b>AI</b><br /><sub>LangChain · RAG · MCP · CNNs</sub></td>
+<td align="center" width="25%">🚀<br /><b>Scale</b><br /><sub>Redis · Kafka · Docker · CI/CD</sub></td>
+</tr>
+</table>
+
+- 🔭 Building a **game-style glass portfolio** with an on-site AI guide and live AI apps inside it
+- 🧠 Exploring **on-device AI**, retrieval-augmented generation and multi-provider LLM systems
+- 🧮 Sharpening **DSA & problem solving** through competitive programming
+- 💬 Ask me about **frontend architecture, RAG pipelines, or performance on high-traffic apps**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,50:e879f9,100:22d3ee" width="100%" alt="" />
+
+## 🛠️ Tech stack
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  ABHISHEK // SYSTEM                       ║
-╠══════════════════════════════════════════════════════════╣
-║                                                            ║
-║  STATUS              ● ONLINE                             ║
-║  ROLE                SOFTWARE ENGINEER                    ║
-║  EMPLOYER            DOCEREE                               ║
-║  PRIMARY MODE        BACKEND + FULL-STACK                 ║
-║  CURRENT DOMAIN      ADTECH / SOFTWARE SYSTEMS            ║
-║  EDUCATION           B.TECH · DTU · 2020 — 2024           ║
-║  CURRENTLY STUDYING  M.SC. AI & ML · IGNOU · 2026 —       ║
-║  LOCATION            DELHI, INDIA                         ║
-║                                                            ║
-║  CODE                BUILD → TEST → DEPLOY → REPEAT       ║
-║                                                            ║
-╚══════════════════════════════════════════════════════════╝
-```
+**Languages & frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,angular,nextjs,tailwind&theme=dark" alt="Languages and frontend" />
+
+**Backend, data & AI**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis,kafka,pytorch,tensorflow&theme=dark" alt="Backend, data and AI" />
+
+**DevOps & tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman,vscode,linux&theme=dark" alt="DevOps and tools" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,50:e879f9,100:22d3ee" width="100%" alt="" />
 
-<h2 align="center">◤ ABOUT THE ENGINEER ◢</h2>
+## 🌟 Featured work
 
-I'm a Software Engineer who enjoys going beyond simply making things work.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I like understanding **how systems work underneath** — building reliable backend services, automating repetitive workflows, designing clean APIs, and turning ideas into deployable products.
+### 🎮 Glass Portfolio
+A **game-style glassmorphism portfolio** — a 3D glass avatar, a world of animated cards, a recruiter-first classic view, a private admin CMS with Vercel sync, OTP-verified contact and a public JSON API.
 
-My strongest interests currently sit around:
+<sub>`Next.js` `React 19` `TypeScript` `MongoDB` `Tailwind` `Framer Motion`</sub>
 
-* Backend engineering
-* Java and Go
-* Full-stack development
-* Distributed systems
-* Automation and testing
-* Cloud and DevOps
-* AI-assisted engineering
-* Data-intensive applications
+</td>
+<td width="50%" valign="top">
 
-I'm particularly interested in building systems that are **maintainable, observable, testable and scalable**.
+### ✨ Iris — Profile Assistant
+An **on-site chat + voice guide** that walks visitors through every project, opens live demos in a window inside the chat and shares the resume in one tap — fully rule-based and on-device.
 
----
+<sub>`React` `NLU rules` `Web Speech API` `TypeScript`</sub>
 
-<h2 align="center">◤ POWER SYSTEMS // TECH STACK ◢</h2>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Medical AI Assistant
+A **DenseNet-121 CNN** (PyTorch → ONNX) that scores **18 chest X-ray findings in the browser** in under a second, plus a **RAG assistant** with cited answers and **multi-provider LLM** support (OpenAI, Gemini, Groq, OpenRouter, Ollama).
+
+<sub>`Python` `PyTorch` `ONNX` `CNN` `RAG` `LLMs`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 COCOMO I & II Estimator
+A **FastAPI engine** for Basic COCOMO and COCOMO II with step-by-step formulas, model comparison, SQLite projects, PDF reports and a document assistant that reads requirements into estimates.
+
+<sub>`Python` `FastAPI` `SQLite` `ReportLab` `Chart.js`</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,50:e879f9,100:22d3ee" width="100%" alt="" />
+
+## 📊 GitHub stats
 
 <div align="center">
 
-### Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhisheksi-ngh&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=c4b5fd&icon_color=e879f9&text_color=dbe3ff&ring_color=a855f7" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksi-ngh&layout=compact&theme=transparent&hide_border=true&title_color=c4b5fd&text_color=dbe3ff&langs_count=8" alt="Top languages" />
 
-<img src="https://skillicons.dev/icons?i=java,go,ts,js,py,cpp,sql&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=abhisheksi-ngh&theme=transparent&hide_border=true&ring=a855f7&fire=e879f9&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="70%" alt="GitHub streak" />
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,react,nextjs,redux,html,css,tailwind&theme=dark" />
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,redis,kafka&theme=dark" />
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,terraform,gcp,azure&theme=dark" />
-
-### Testing & Engineering
-
-<img src="https://skillicons.dev/icons?i=playwright,postman,swagger,maven,gradle&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksi-ngh&bg_color=00000000&color=c4b5fd&line=a855f7&point=e879f9&area=true&area_color=6366f1&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,50:e879f9,100:22d3ee" width="100%" alt="" />
 
-<h2 align="center">◤ ENGINEERING MAP ◢</h2>
+## 🤝 Let's connect
 
 <div align="center">
 
-|       DOMAIN      | CURRENT SYSTEMS                                 |
-| :---------------: | :---------------------------------------------- |
-|   ⚙️ **Backend**  | Java · Go · Node.js · REST APIs · Microservices |
-|  🖥️ **Frontend** | Angular · React · Next.js · TypeScript · Redux  |
-| 🗄️ **Databases** | PostgreSQL · MongoDB · Redis                    |
-|   🧪 **Testing**  | Playwright · Java · TestNG · API Testing · Automation |
-|    ☁️ **Cloud**   | Azure · GCP · Cloud Services                    |
-|   🚀 **DevOps**   | Docker · Kubernetes · Jenkins · GitHub Actions  |
-|   📡 **Systems**  | Kafka · Distributed Services · Observability    |
-|     🤖 **AI**     | RAG · LangChain · MCP · Agentic Workflows       |
+Hiring, collaborating, or just curious? Visit my **portfolio** and use the **contact form** — or ask **Iris**, and it fills the form in for you.
+
+<br />
+
+<a href="https://github.com/abhisheksi-ngh"><img src="https://img.shields.io/badge/GitHub-abhisheksi--ngh-0b0f1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
-
-<h2 align="center">◤ CURRENT MISSION ◢</h2>
-
-```text
-MISSION: Become a stronger backend / systems engineer
-
-PRIMARY OBJECTIVES
-
-[████████████████░░░░] Backend Engineering
-[███████████████░░░░░] Java / Spring
-[██████████████░░░░░░] Go
-[█████████████░░░░░░░] Distributed Systems
-[████████████░░░░░░░░] Cloud & DevOps
-[███████████░░░░░░░░░] System Design
-[██████████░░░░░░░░░░] AI Engineering
-```
-
-> **Build less toy code. Build more real systems.**
-
----
-
-<h2 align="center">◤ EXPERIENCE LOG ◢</h2>
-
-### ⚡ Software Engineer — Doceree
-
-`June 2025 — Present`
-
-Working on software systems in the AdTech domain, spanning frontend engineering, backend services, automation, and engineering workflows.
-
-* Building and maintaining production-facing application features
-* Working with modern frontend architecture and APIs
-* Developing backend services and integrations
-* Building automated UI/API validation with Playwright + Java
-* Debugging server-side auction and coupon-lookup logs — geo-resolution mismatches, budget-filtering logic, bid discrepancies
-* Working with databases, CI/CD and cloud-oriented systems
-* Exploring AI-assisted engineering workflows
-
-### 🔧 Frontend Developer Intern — Coding Ninjas
-
-`February 2025 — May 2025`
-
-* Built React-based dashboards and product interfaces
-* Worked on frontend architecture and reusable components
-* Improved application performance and user experience
-
-### 🔩 Frontend Developer Intern — CRIS
-
-`January 2024 — February 2024`
-
-* Worked on administrative dashboards
-* Integrated frontend applications with backend APIs
-* Gained experience working with production-oriented software systems
-
----
-
-<h2 align="center">◤ PROJECT ARCHIVE ◢</h2>
-
-<div align="center">
-
-### 🚀 Featured Projects
-
-| Project                        | Stack                                    | Focus                        |
-| ------------------------------ | ----------------------------------------- | ----------------------------- |
-| **Medical AI Assistant**       | Python · DenseNet-121 CNN · RAG · Multi-LLM | Full-stack medical AI app     |
-| **LLM Image Captioning**       | Angular 17 · Node.js/Express (monorepo)   | AI-powered image captioning   |
-| **Portfolio**                  | React · TypeScript · Supabase             | Personal developer platform   |
-| **Business Insights 360**      | Power BI · Data                           | Business analytics            |
-| **Uptime Tracker**             | Node.js · APIs                            | Monitoring / infrastructure   |
-| **Personalized Learning Path** | Web · AI                                  | Learning systems              |
-| **Work Day Scheduler**         | JavaScript                                | Productivity                  |
-| **CocktailThatUwant**          | React · APIs                              | Full-stack web                |
-
-</div>
-
-### 🔥 What I want my projects to demonstrate
-
-```text
-Architecture
-    ↓
-Clean APIs
-    ↓
-Reliable Data Layer
-    ↓
-Automated Testing
-    ↓
-Containerization
-    ↓
-CI/CD
-    ↓
-Cloud Deployment
-    ↓
-Monitoring
-```
-
-Not just:
-
-> "It works on my machine."
-
----
-
-<h2 align="center">◤ BATTLE HONORS // COMPETITIVE PROGRAMMING ◢</h2>
-
-<div align="center">
-
-| Achievement                    |           Record          |
-| :----------------------------- | :-----------------------: |
-| 🧠 **LeetCode**                |       500+ problems       |
-| ⭐ **LeetCode Rating**          |           1900+           |
-| 🏆 **Competitive Programming** | Multiple contest rankings |
-| 🧩 **DSA**                     |    500+ problems solved   |
-
-</div>
-
----
-
-<h2 align="center">◤ GITHUB TELEMETRY ◢</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhisheksi-ngh&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&icon_color=ff003c&text_color=c9d1d9&count_private=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksi-ngh&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a1f&title_color=00f0ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-> ⚠ This is the shared public instance — it's the standard, most-used option, but can occasionally 503 under heavy traffic. If it ever shows a broken icon, refresh after a minute; it's not your markup.
-
----
-
-<h2 align="center">◤ TERMINAL LOG ◢</h2>
-
-<div align="center">
-
-```bash
-abhishek@dev:~$ whoami
-> software_engineer.exe running at Doceree since 2025-06
-
-abhishek@dev:~$ cat current_focus.txt
-> Auction systems · targeting logic · analytics pipelines
-> Playwright + Java automation across Highcharts, uploads, dashboards
-> M.Sc. AI & ML @ IGNOU — in progress
-
-abhishek@dev:~$ git log --oneline -3
-> fix: geo-resolution mismatch in auction finalization
-> feat: stable xpath patterns for choropleth + donut charts
-> chore: bug-tracking spreadsheet for structured QA logging
-
-abhishek@dev:~$ echo $STATUS
-> Building. Debugging. Shipping. Repeat.
-```
-
-</div>
-
----
-
-<h2 align="center">◤ ACHIEVEMENT MATRIX ◢</h2>
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────┐
-│                  ACHIEVEMENT MATRIX                    │
-├───────────────────────────────────────────────────────┤
-│                                                         │
-│  ✓ GitHub Education                                    │
-│  ✓ GitHub Copilot Student                              │
-│  ✓ 500+ DSA Problems                                   │
-│  ✓ Competitive Programming Experience                  │
-│  ✓ Production Software Engineering                     │
-│                                                         │
-│  ◌ GitHub Foundations Certification                    │
-│  ◌ Cloud Certification                                 │
-│  ◌ Open Source Contribution                            │
-│  ◌ 1,000+ GitHub Contributions                         │
-│                                                         │
-└───────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<h2 align="center">◤ LEARNING QUEUE ◢</h2>
-
-```text
-01 → Advanced Java / Spring Boot
-02 → Go Backend Engineering
-03 → System Design
-04 → Distributed Systems
-05 → Kafka / Event-Driven Architecture
-06 → Docker / Kubernetes
-07 → Cloud Architecture
-08 → Observability
-09 → AI Engineering
-10 → Open Source
-```
-
----
-
-<h2 align="center">◤ DEVELOPMENT PHILOSOPHY ◢</h2>
-
-<div align="center">
-
-```text
-                 THINK
-                   ↓
-                DESIGN
-                   ↓
-                 BUILD
-                   ↓
-                 TEST
-                   ↓
-               OBSERVE
-                   ↓
-                DEPLOY
-                   ↓
-                IMPROVE
-                   ↓
-                 REPEAT
-```
-
-**Good software isn't only code that works.**
-
-**Good software is code that can survive change.**
-
-</div>
-
----
-
-<h2 align="center">◤ CONNECT ◢</h2>
-
-<div align="center">
-
-<a href="mailto:abhishek.singh.se2024@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abhisheksi-ngh">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM STATUS: ONLINE`
-
-**Building. Learning. Shipping.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:7a2bff,100:050510&height=120&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:a855f7,100:4f46e5" width="100%" alt="" />
