@@ -11,9 +11,9 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_Delhi_NCR_India-4f46e5?style=for-the-badge" alt="Location: Delhi NCR, India" />
-<img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_work-059669?style=for-the-badge" alt="Open to work" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_Remote_friendly-0891b2?style=for-the-badge" alt="Remote friendly" />
+<img src="https://img.shields.io/static/v1?label=&message=Delhi%20NCR%2C%20India&color=4f46e5&style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Delhi NCR, India" />
+<img src="https://img.shields.io/static/v1?label=&message=Open%20to%20work&color=059669&style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
+<img src="https://img.shields.io/static/v1?label=&message=Remote%20friendly&color=0891b2&style=for-the-badge&logo=googleearth&logoColor=white" alt="Remote friendly" />
 <img src="https://komarev.com/ghpvc/?username=abhisheksi-ngh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -49,16 +49,16 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/static/v1?label=&message=React&color=20232A&style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/static/v1?label=&message=Redux&color=764ABC&style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 <br /><br />
 
@@ -66,17 +66,17 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+<img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/static/v1?label=&message=Express&color=000000&style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/static/v1?label=&message=Kafka&color=231F20&style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/static/v1?label=&message=LangChain&color=1C3C3C&style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/static/v1?label=&message=ONNX&color=005CED&style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
 
 <br /><br />
 
@@ -84,13 +84,13 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/static/v1?label=&message=Vercel&color=000000&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
 </div>
 
@@ -178,7 +178,7 @@ Hiring, collaborating, or just curious? Visit my **portfolio** and use the **con
 
 <br />
 
-<a href="https://github.com/abhisheksi-ngh"><img src="https://img.shields.io/badge/GitHub-abhisheksi--ngh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/abhisheksi-ngh"><img src="https://img.shields.io/static/v1?label=GitHub&message=abhisheksi-ngh&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub: abhisheksi-ngh" /></a>
 
 </div>
 
