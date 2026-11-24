@@ -8,9 +8,9 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/📍_Noida_/_Delhi,_India-0b0f1f?style=for-the-badge" alt="Location" />
-<img src="https://img.shields.io/badge/💼_Open_to_work-0b0f1f?style=for-the-badge" alt="Open to work" />
-<img src="https://img.shields.io/badge/🌐_Remote_friendly-0b0f1f?style=for-the-badge" alt="Remote friendly" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Noida_%2F_Delhi%2C_India-0b0f1f?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_work-0b0f1f?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%90_Remote_friendly-0b0f1f?style=for-the-badge" alt="Remote friendly" />
 <img src="https://komarev.com/ghpvc/?username=abhisheksi-ngh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -110,7 +110,7 @@ A **FastAPI engine** for Basic COCOMO and COCOMO II with step-by-step formulas, 
 
 <img src="https://streak-stats.demolab.com?user=abhisheksi-ngh&theme=transparent&hide_border=true&ring=a855f7&fire=e879f9&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" width="70%" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksi-ngh&bg_color=00000000&color=c4b5fd&line=a855f7&point=e879f9&area=true&area_color=6366f1&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksi-ngh&bg_color=0d1117&color=c4b5fd&line=a855f7&point=e879f9&area=true&area_color=6366f1&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
